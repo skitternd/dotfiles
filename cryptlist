@@ -1,0 +1,14 @@
+# Groups
+work=samsung,omp
+home=skitter-desktop
+
+# Git
+.git-credentials:samsung
+.git-credentials:omp
+.git-credentials:home
+.gitconfig:samsung
+.gitconfig:omp
+.gitconfig:home
+
+# Wakatime
+.wakatime.cfg

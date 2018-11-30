@@ -1,0 +1,16 @@
+# Groups
+work=samsung,omp
+home=skitter-desktop
+
+# Zsh
+.profile
+.zprezto
+.zlogin
+.zlogout
+.zpreztorc
+.zshenv
+.zshrc
+
+# Spacemacs
+.spacemacs
+.spacemacs.env
